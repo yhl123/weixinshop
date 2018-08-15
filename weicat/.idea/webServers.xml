@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="08ea2b10-d3e7-47fb-8bc1-29151aff43d6" name="linux_py" url="http://58.87.118.83">
+        <fileTransfer host="58.87.118.83" port="22" rootFolder="/yhl/myproject/weixinobj" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
